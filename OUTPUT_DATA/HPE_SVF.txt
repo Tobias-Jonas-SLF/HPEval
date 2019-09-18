@@ -1,0 +1,4 @@
+Image_file	Easting	Northing	SVF_hemi	SVF_flat	SVF_flat_south	SVF_flat_north
+IMG_7827_bin.png	784015	190790	0.40	0.58	0.77	0.38
+IMG_7840_bin.png	784015	190790	0.19	0.27	0.47	0.07
+IMG_7846_bin.png	784015	190790	0.44	0.61	0.81	0.41

@@ -1,0 +1,5 @@
+file	threshold (0 … 255)	method for grayscaling (1,2,3)	radius of image (pixel)	camera easting (CH1903)	camera northing (CH1903)	camera height above DEM (m)	rotational error (°)	start time of swr evalution (dd.mm.yyyy HH:MM:SS)	endtime of swr evalution (dd.mm.yyyy HH:MM:SS)	interval of swr evalution (MM)	swr data file	swr scaling
+IMG_7827_bin.png	1	3	1436	783984	190859	0.3	-1	22.10.2018 08:00	22.10.2018 16:30	0.25	Logger_7827.txt	
+IMG_7840_bin.png	1	3	1436	784017	190821	0.3	-5	22.10.2018 08:00	22.10.2018 16:30	0.25	Logger_7840.txt	0.9
+IMG_7846_bin.png	1	3	1436	784015	190790	0.3	-2.5	22.10.2018 08:00	22.10.2018 16:30	0.25	Logger_7846.txt	
+REFERENCE_7858_bin.png	1	3	1436	784018	190729	0.3	0	22.10.2018 08:00	22.10.2018 16:30	0.25	Logger_7858.txt	
